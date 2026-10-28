@@ -5,7 +5,8 @@ https://ohbstudio-pixel.github.io/
 
 | Path | What it is |
 |---|---|
-| `/privacy/` | Privacy policy for Who Knows Kenya. Linked from the Play and App Store listings and the in-game settings screen. |
+| `/privacy/` | iOS privacy policy for Who Knows Kenya. Linked from the App Store listing. Keep Android wording out of it - App Review rejects a policy that mixes in the other platform. |
+| `/privacy/android/` | Android privacy policy for Who Knows Kenya (ads, Play Games, Play Billing). Linked from the Play listing. |
 | `/app-ads.txt` | Authorised ad sellers for every app that lists this site as its developer website. |
 
 ## Why everything lives in this one repo
